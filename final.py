@@ -45,6 +45,9 @@ minval = df['total leche en el dia'].min()
 print("el maximo de recogido en un dia" , maxval,)
 print("el minimo de recogido en un dia" , minval)
 
+#VIDEO EXPLICACION
+#https://www.dropbox.com/s/gl4a4ch08v3tzoj/difficultpressuresdirectsecondly%20on%202022-09-06%2023-28.mp4?dl=0
+
 
 
 
